@@ -25,8 +25,6 @@ My key interests lie in creating data visualizations that capture the audience a
 
 ------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdezetter)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdezetter&label=Views&color=b39bb6&style=flat" alt="mdezetter" /> </p>
 
 -----
