@@ -2,7 +2,9 @@
 She/Her
 
 -----
-I'm a recent **Masters of Data Analytics Graduate from Northern Illinois University with a 3.71 GPA**. During my time at NIU I learned SQL, SAS, Tableau, Python for Machine Learning, Advanced Excel, and many other skills. 
+I'm a recent **Masters of Data Analytics Graduate from Northern Illinois University with a 3.71 GPA**. During my time at NIU I learned SQL, SAS, Tableau, Python for Machine Learning, and Advanced Excel. 
+
+I also was awarded a
 
 I received my **Bachelors in Communications from the University of Illinois at Chicago graduating with a 3.31 GPA**, during this time I discovered my affinity for statistics and data visualization but I wasn't sure how to turn that into a career. Eventually I ended up at NIU working toward my degree in Data Analytics.
 
@@ -13,6 +15,7 @@ My key interests lie in creating data visualizations that capture the audience a
 
 - 🔭 Building out my python portfolio 
 - 🌱 Expanding my knowledge of machine learning
+- 🖥️ Exploring computer vision
 
 ----
 <h3 align="left">Connect with me:</h3>
