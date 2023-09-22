@@ -2,13 +2,13 @@
 She/Her
 
 -----
-I'm a recent **Masters of Data Analytics Graduate from Northern Illinois University with a 3.71 GPA**. During my time at NIU I learned SQL, SAS, Tableau, Python for Machine Learning, and Advanced Excel. 
-
-I also was awarded a Certificate of Graduate Study in Data Analytics using SAS Software by SAS as part of the SAS Joint Certificate program.
+I'm a recent **Masters of Data Analytics Graduate from Northern Illinois University with a 3.71 GPA**. During my time at NIU I learned SQL, SAS, Tableau, Python for Machine Learning, and Advanced Excel. I also was awarded a Certificate of Graduate Study in Data Analytics using SAS Software by SAS as part of the SAS Joint Certificate program.
 
 I received my **Bachelors in Communications from the University of Illinois at Chicago graduating with a 3.31 GPA**, during this time I discovered my affinity for statistics and data visualization but I wasn't sure how to turn that into a career. Eventually I ended up at NIU working toward my degree in Data Analytics.
 
 My key interests lie in creating data visualizations that capture the audience and easily portray the meaning of the data within. I also have a particular fondness for Machine Learning and Computer Vision.
+
+In my free time I like to discover simple beginner python MicroBit tutorials to share with my nephews, read books, knit, and crochet!
 
 -----
 <h3 align="left">Currently:</h3>
